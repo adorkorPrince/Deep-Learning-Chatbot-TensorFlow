@@ -1,4 +1,4 @@
-# Implementation of a Deep-Learning Contextual Chatbot in TensorFlow. 
+# Deep-Learning Chatbot in TensorFlow. 
 
 
 ## Introduction
