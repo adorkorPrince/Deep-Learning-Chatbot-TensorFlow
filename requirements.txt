@@ -1,5 +1,5 @@
-#pip install nltk
-#pip install numpy
-#pip install keras
-#pip install tensorflow
-#pip install flask
+nltk==3.0
+numpy==1.25.1
+keras==2.13.1
+tensorflow==2.13
+flask==2.3.2
